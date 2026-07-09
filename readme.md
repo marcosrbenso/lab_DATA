@@ -3,11 +3,16 @@
 # Repo do Laboratório de ciência de dados na agricultura e ambiente
 
 ## Informações
-- **Disciplinas:**
-  - Ciência de Dados para Engenharia de Biossistemas (LEBXXXX)
-  - Hidrologia (LEB0360)
-  - Máquinas e implementos agrícolas (LEB0432)
-  
+- **Disciplina Graduação:**
+  - LEB0435 Ciência de Dados aplicada em Engenharia de Biossistemas
+  - LEB360 - Hidrologia
+  - LEB1440 - Hidrologia
+  - LEB0472 - Hidraúlica
+  - LEB0432 - Máquinas e implementos agrícolas
+
+- **Disciplina Pós-Graduação:**
+    - LEB5059 - Ciência de dados em biossitemas
+    - LEB5009 - Hidrologia
 
 ---
 
