@@ -4,9 +4,9 @@
 
 ## Informações
 - **Disciplina Graduação:**
-  - LEB0435 Ciência de Dados aplicada em Engenharia de Biossistemas
-  - LEB360 - Hidrologia
-  - LEB1440 - Hidrologia
+  - LEB0435 - Ciência de Dados aplicada em Engenharia de Biossistemas
+  - LEB0360 - Hidrologia (Gestão Ambiental)
+  - LEB1440 - Hidrologia (Engenharia Agronômica)
   - LEB0472 - Hidraúlica
   - LEB0432 - Máquinas e implementos agrícolas
 
